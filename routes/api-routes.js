@@ -19,8 +19,7 @@ module.exports = function(app) {
                         order: ['burger_name'],
                         include: [db.Customer]
                       }
-                  )
-                 .then(function(data) {
+                ).then(function(data) {
                       var hbsObject = {
                                         burgers: data
                                       };
