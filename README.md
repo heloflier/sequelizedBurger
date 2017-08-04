@@ -6,7 +6,7 @@ The user can go to the main page, where he can enter his/her preferred hamburger
 
 Finally, the burger will be visualized in the "devoured" column, in alphabetical order.
 
-Heroku repository found at: https://dashboard.heroku.com/apps/sheltered-castle-89113
+Heroku repository found at: https://dashboard.heroku.com/apps/quiet-garden-94850
 
 Technology used:
 
